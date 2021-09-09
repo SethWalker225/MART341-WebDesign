@@ -1,1 +1,22 @@
 
+1. How is the world wide web different than the internet?
+
+The world wide web consists of all the different web pages that are made visible by the internet. The internet is a large network of computers connected to one another.
+
+2. Briefly describe how the internet works.
+
+Computers are connected to one another through routers and cables and use protocols to communicate information with one another. 
+
+3. What is a directory, and what is its relationship to files?
+
+A directory is a cataloging structure that can contain files or other directories.
+
+4. How will VCS benefit you?
+	
+VCS allows me to keep track of the changes I make to my application and gives me the ability to have access to those older versions in case something breaks in the latest version.
+
+5. Take a screenshot anytime while working on your homework.
+
+6. What is your favorite kind of art?
+	
+My favorite kind of art is music. 
